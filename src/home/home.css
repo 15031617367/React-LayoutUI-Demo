@@ -1,0 +1,17 @@
+.logo {
+    height: 32px;
+    background: rgba(255,255,255,.2);
+    margin: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#fff
+}
+.out{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background:red;
+    padding-right: 20px;
+    padding: 0px 20px 0px 0px
+}
